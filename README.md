@@ -47,4 +47,4 @@ Python · SQL · R · pandas · scikit-learn · PySpark · Databricks · Power B
 
 ### Links
 
-[LinkedIn](https://www.linkedin.com/in/pranayratan) · [pra40@sfu.ca](mailto:pra40@sfu.ca)
+[LinkedIn](https://www.linkedin.com/in/pranay-ratan/) · [pra40@sfu.ca](mailto:pra40@sfu.ca)
